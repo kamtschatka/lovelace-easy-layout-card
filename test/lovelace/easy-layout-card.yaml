@@ -1,0 +1,16 @@
+title: easy-layout-card
+panel: true
+cards:
+    - type: vertical-stack
+      cards:
+          - type: custom:easy-layout-card
+            cards: !include card-list.yaml
+          - type: custom:easy-layout-card
+            layout_type: masonry
+            cards: !include card-list.yaml
+          - type: custom:easy-layout-card
+            layout_type: horizontal
+            cards: !include card-list.yaml
+          - type: custom:easy-layout-card
+            layout_type: vertical
+            cards: !include card-list.yaml

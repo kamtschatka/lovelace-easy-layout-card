@@ -1,0 +1,3 @@
+title: layout-card
+views:
+    - !include easy-layout-card.yaml
