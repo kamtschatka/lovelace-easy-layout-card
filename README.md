@@ -66,7 +66,7 @@ layout_options:
 
 ### Output
 
-TODO: insert single entity
+![single entity](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/singleEntity.png?raw=true)
 
 ## Basic Example with easy-layout-card
 
@@ -89,7 +89,7 @@ layout_options:
 
 ### Output
 
-TODO: insert single entity
+![single entity](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/singleEntity.png?raw=true)
 
 ## Extended Example with layout-card
 
@@ -118,7 +118,7 @@ filter:
 
 ### Output
 
-TODO: insert twoEntitiesLayoutCard
+![single entity](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/twoEntitiesLayoutCard.png?raw=true)
 
 Basically what happens is that both entities are shown, but basically the whole "cards" section of the layout-card is ignored.
 My expectation was that the cards section was duplicated for each entity provided. It would also be required to have some kind of placeholder to use in the cards section.
@@ -148,8 +148,7 @@ filter:
 ```
 
 ### Output
-
-TODO: insert twoEntitiesEasyLayoutCard
+![twoEntitiesEasyLayoutCard](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/twoEntitiesEasyLayoutCard.png?raw=true)
 
 ## Extended Example with easy-layout-card and placeholders
 
@@ -176,8 +175,7 @@ filter:
 ```
 
 ### Output
-
-TODO: Insert twoEntitiesEasyLayoutCardDynamic
+![twoEntitiesEasyLayoutCardDynamic](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/twoEntitiesEasyLayoutCardDynamic.png?raw=true)
 
 ## Extended Example with layout-card
 
@@ -209,4 +207,4 @@ filter:
 
 ### Output
 
-TODO: Insert twoEntitiesLayoutCardSample.png
+![twoEntitiesLayoutCardSample](https://github.com/kamtschatka/lovelace-easy-layout-card/blob/master/.github/images/twoEntitiesLayoutCardSample.png?raw=true)
